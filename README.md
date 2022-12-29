@@ -26,13 +26,18 @@
 - [Website](http://dhruvawasthi.com)
 - [Email](dhruvawasthicc@gmail.com) 
 
+#### 📊 This week I spent my time on:
+<!--START_SECTION:waka-->
 
-### :zap: Top langauges
+<!--END_SECTION:waka-->
+
+#### :zap: Top langauges
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvAwasthi&layout=compact&hide=jupyter%20notebook"/>
 
 
-### :zap: My GitHub stats  
+#### :zap: My GitHub stats  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DhruvAwasthi&&count_private=true&show_icons=true)"/>
+
 
 <!--
 **DhruvAwasthi/DhruvAwasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
