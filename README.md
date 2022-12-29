@@ -42,9 +42,9 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-#### :zap: Top langauges
+<!-- #### :zap: Top langauges
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvAwasthi&layout=compact&hide=jupyter%20notebook"/>
-
+ -->
 
 #### :zap: My GitHub stats  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DhruvAwasthi&&count_private=true&show_icons=true)"/>
