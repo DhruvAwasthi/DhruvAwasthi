@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=PROFILE+VIEWS)
+
+### 📫 How to reach me?
+- [LinkedIn](https://www.linkedin.com/in/dhruv-awasthi/) 
+- [Twitter](https://twitter.com/_dhruvawasthi) 
+- [Website](http://dhruvawasthi.com) 
