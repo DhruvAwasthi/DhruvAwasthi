@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=VISITORS)&nbsp; &nbsp; 
+![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=Visitors)<br/>
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2023%20mins-blue)<br/>
 <a href="https://www.linkedin.com/in/dhruv-awasthi/">
   <img alt="Dhruv's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> &nbsp; 
@@ -11,7 +12,7 @@
 </a> &nbsp;
 <a href="http://dhruvawasthi.com">
   <img alt="Dhruv's Website" width="22px" src="https://github.com/raivo-otp/issuer-icons/blob/f2007535e72276907bb7d9b64c31304c83c0f043/vectors/firefox.com/firefox.svg">
-</a>
+</a>  <br/>
   
 - I'm Dhruv Awasthi (he/him).  
 - I'm a Research Scholar, an Artificial Intelligence (AI) Consultant, and an Associate Data Scientist.   
@@ -40,9 +41,9 @@
 
 <!-- #### 📊 This week I spent my time on: -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue) -->
 
 **🐱 My GitHub Data** 
 
