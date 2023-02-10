@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=Visitors)<br/>
-![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2023%20mins-blue)<br/>
 <a href="https://www.linkedin.com/in/dhruv-awasthi/">
   <img alt="Dhruv's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> &nbsp; 
@@ -43,8 +42,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
+<!--
 **🐱 My GitHub Data** 
 
 > 🏆 27 Contributions in the Year 2023
@@ -57,8 +55,12 @@
  > 
 > 🔑 12 Private Repositories  
  > 
+ 
 **I'm a Night 🦉** 
+-->
 
+
+<!--
 ```text
 🌞 Morning       22 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 🌆 Daytime       51 commits       ███████░░░░░░░░░░░░░░░░░░   31.29 % 
@@ -66,6 +68,8 @@
 🌙 Night         30 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.40 % 
 
 ```
+-->
+<!--
 📅 **I'm Most Productive on Friday** 
 
 ```text
@@ -78,12 +82,10 @@ Saturday        26 commits       ████░░░░░░░░░░░�
 Sunday          19 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 
 ```
+-->
 
-
-📊 **This Week I Spent My Time On** 
-
+📊 **This week I spent my time on** 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
 Other                    25 hrs 19 mins      ████████████████░░░░░░░░░   63.81 % 
@@ -98,20 +100,12 @@ PyCharm                  12 hrs 2 mins       ███████░░░░�
 WebStorm                 1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 Sublime Text             47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
-🐱‍💻 Projects: 
-H2OHub                   25 hrs 12 mins      ███████████████░░░░░░░░░░   63.48 % 
-pwa_2023_02_07           11 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-pwa_2023_02_06           1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-yolov5                   59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Unknown Project          47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-
 💻 Operating System: 
 Linux                    39 hrs 41 mins      █████████████████████████   100.00 % 
 
 ```
 
-**I Mostly Code in Jupyter Notebook** 
-
+**📊 Repository stats by langauge**
 ```text
 Jupyter Notebook         12 repos            ███████████░░░░░░░░░░░░░░   46.15 % 
 Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   34.62 % 
@@ -121,13 +115,15 @@ C++                      1 repo              █░░░░░░░░░░�
 
 ```
 
-
+<!--
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/DhruvAwasthi/DhruvAwasthi/main/charts/bar_graph.png) 
 
 
  Last Updated on 10/02/2023 18:45:34 UTC
+--> 
+ 
 <!--END_SECTION:waka-->
 
 <!-- #### :zap: Top langauges
