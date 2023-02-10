@@ -1,5 +1,8 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=Visitors)<br/>
+![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=Visitors)
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2052%20mins-blue)
+<!--END_SECTION:waka-->
 <a href="https://www.linkedin.com/in/dhruv-awasthi/">
   <img alt="Dhruv's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> &nbsp; 
@@ -40,9 +43,10 @@
 
 <!-- #### 📊 This week I spent my time on: -->
 <!--START_SECTION:waka-->
+<!--
 ![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2052%20mins-blue)
 
-<!--
+
 **🐱 My GitHub Data** 
 
 > 🏆 27 Contributions in the Year 2023
