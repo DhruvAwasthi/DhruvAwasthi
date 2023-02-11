@@ -1,55 +1,13 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=Visitors)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2052%20mins-blue)
-<!--END_SECTION:waka-->
-<a href="https://www.linkedin.com/in/dhruv-awasthi/">
-  <img alt="Dhruv's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> &nbsp; 
-<a href="https://twitter.com/_dhruvawasthi">
-  <img alt="Dhruv's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
-</a> &nbsp; 
-<a href="mailto: dhruvawasthicc@gmail.com">
-  <img alt="Dhruv's Email" width="22px" src="https://github.com/raivo-otp/issuer-icons/blob/f2007535e72276907bb7d9b64c31304c83c0f043/vectors/google.com/google-gmail.svg">
-</a> &nbsp;
-<a href="http://dhruvawasthi.com">
-  <img alt="Dhruv's Website" width="22px" src="https://github.com/raivo-otp/issuer-icons/blob/f2007535e72276907bb7d9b64c31304c83c0f043/vectors/firefox.com/firefox.svg">
-</a>  <br/>
-  
-- I'm Dhruv Awasthi (he/him).  
-- I'm a Research Scholar, an Artificial Intelligence (AI) Consultant, and an Associate Data Scientist.   
-- I build cool and impactful AI products that have the potential to impact lives of millions of people.   
-- I'm currently working on natural language processing (NLP) and computer vision (CV).  
-- I'm doing research on embodied conversational agents at [Multimodal Perception Lab](http://mpl.iiitb.ac.in/).    
-- I'm currently pursuing Master of Science (MS) by Research in Data Science from [IIIT, Bangalore](https://www.iiitb.ac.in/).   
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%207%20mins-blue)
 
-
-### 🌱 What do I do and What have I done? 
-- Artificial Intelligence (AI) Consultant at Healthy Happy Organic Hub
-- Artificial Intelligence (AI) Consultant at Lavorro Inc.
-- Research Scholar at IIIT Bangalore
-- Associate Data Scientist at Lavorro Inc.
-- Research Intern at Language Technologies Research Center (LTRC)
-- Consultant Intern in Analytics and Product Team at Healthy Happy Organic Hub
-- Natural Language Processing Intern at Lincode Labs
-- Research Assistant at GLA University
-
-
-<!-- ### 📫 How to reach me?
-- [LinkedIn](https://www.linkedin.com/in/dhruv-awasthi/) 
-- [Twitter](https://twitter.com/_dhruvawasthi) 
-- [Website](http://dhruvawasthi.com)
-- [Email](dhruvawasthicc@gmail.com)  -->
-
-<!-- #### 📊 This week I spent my time on: -->
-<!--START_SECTION:waka-->
-<!--
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2052%20mins-blue)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 27 Contributions in the Year 2023
+> 🏆 29 Contributions in the Year 2023
  > 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
@@ -59,57 +17,61 @@
  > 
 > 🔑 12 Private Repositories  
  > 
- 
 **I'm a Night 🦉** 
--->
 
-
-<!--
 ```text
-🌞 Morning       22 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-🌆 Daytime       51 commits       ███████░░░░░░░░░░░░░░░░░░   31.29 % 
-🌃 Evening       60 commits       █████████░░░░░░░░░░░░░░░░   36.81 % 
-🌙 Night         30 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.40 % 
+🌞 Morning       22 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+🌆 Daytime       51 commits       ███████░░░░░░░░░░░░░░░░░░   30.91 % 
+🌃 Evening       60 commits       █████████░░░░░░░░░░░░░░░░   36.36 % 
+🌙 Night         32 commits       ████░░░░░░░░░░░░░░░░░░░░░   19.39 % 
 
 ```
--->
-<!--
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday           4 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Tuesday         18 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Wednesday       27 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Thursday        29 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Friday          40 commits       ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-Saturday        26 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Sunday          19 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Monday           4 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Tuesday         18 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Wednesday       27 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Thursday        29 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Friday          40 commits       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+Saturday        28 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Sunday          19 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
 
 ```
--->
 
-📊 **This week I spent my time on** 
+
+📊 **This Week I Spent My Time On** 
+
 ```text
+⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    25 hrs 19 mins      ████████████████░░░░░░░░░   63.81 % 
-Python                   6 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Jupyter                  4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-TypeScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Text                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Other                    24 hrs 6 mins       ████████████████░░░░░░░░░   66.99 % 
+Python                   6 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Jupyter                  1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+TypeScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Text                     56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-Browser                  25 hrs 15 mins      ████████████████░░░░░░░░░   63.64 % 
-PyCharm                  12 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   30.32 % 
-WebStorm                 1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Sublime Text             47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Browser                  24 hrs 2 mins       ████████████████░░░░░░░░░   66.80 % 
+PyCharm                  9 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   26.07 % 
+WebStorm                 1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Sublime Text             57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+
+🐱‍💻 Projects: 
+H2OHub                   21 hrs 29 mins      ███████████████░░░░░░░░░░   59.71 % 
+pwa_2023_02_07           11 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   30.81 % 
+pwa_2023_02_06           1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+yolov5                   59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Unknown Project          47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Linux                    39 hrs 41 mins      █████████████████████████   100.00 % 
+Linux                    35 hrs 58 mins      █████████████████████████   100.00 % 
 
 ```
 
-**📊 Repository stats by langauge**
+**I Mostly Code in Jupyter Notebook** 
+
 ```text
 Jupyter Notebook         12 repos            ███████████░░░░░░░░░░░░░░   46.15 % 
 Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   34.62 % 
@@ -119,15 +81,13 @@ C++                      1 repo              █░░░░░░░░░░�
 
 ```
 
-<!--
+
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/DhruvAwasthi/DhruvAwasthi/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/02/2023 18:45:34 UTC
---> 
- 
+ Last Updated on 11/02/2023 18:42:45 UTC
 <!--END_SECTION:waka-->
 
 <!-- #### :zap: Top langauges
