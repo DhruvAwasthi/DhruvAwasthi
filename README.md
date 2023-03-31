@@ -16,6 +16,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-224%20hrs%2030%20mins-blue)
 
+<!--
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -49,7 +50,7 @@ Friday                   357 commits         ████░░░░░░░�
 Saturday                 319 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 Sunday                   264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
 ```
-
+ -->
 
 📊 **This Week I Spent My Time On** 
 
@@ -74,7 +75,7 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 💻 Operating System: 
 Linux                    15 hrs 19 mins      █████████████████████████   100.00 % 
 ```
-
+<!--
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -90,7 +91,7 @@ C++                      1 repo              █░░░░░░░░░░�
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/DhruvAwasthi/DhruvAwasthi/main/assets/bar_graph.png)
-
+-->
 
  Last Updated on 30/03/2023 18:38:20 UTC
 <!--END_SECTION:waka-->
