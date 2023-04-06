@@ -90,6 +90,7 @@ Linux                    1 hr 33 mins        ███████████�
 <!--END_SECTION:waka-->
 
 
-#### :zap: My GitHub stats  
-<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DhruvAwasthi&&count_private=true&show_icons=true)"/>
+#### :zap: My GitHub Stats  
+ 
+<img align="center" alt="Dhruv Awasthi's GitHub Stats" src="https://github-readme-stats-orpin-omega.vercel.app/api?username=DhruvAwasthi&count_private=true&show_icons=true"/>  
 
