@@ -93,6 +93,3 @@ Linux                    1 hr 33 mins        ███████████�
 #### :zap: My GitHub stats  
 <p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DhruvAwasthi&&count_private=true&show_icons=true)"/>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvAwasthi)](https://github.com/anuraghazra/github-readme-stats)
-
