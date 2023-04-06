@@ -1,5 +1,5 @@
 
-### Hi there, I'm Dhruv 👋
+# Hi there, I'm Dhruv 👋
 
 <a href="http://dhruvawasthi.com">
   <img alt="Dhruv's Website" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/firefox.svg" />
@@ -30,7 +30,7 @@
 ![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=Visitors)
 
 
-### 💡 Who I Am?
+## 💡 Who I Am?
 - I'm a Research Scholar, an Artificial Intelligence (AI) Consultant, and an Associate Data Scientist.
 - I build cool and impactful AI products that have the potential to impact lives of millions of people.
 - I'm currently working on natural language processing (NLP), reinforcement learning (RL), and computer vision (CV).
@@ -38,7 +38,7 @@
 - I'm currently pursuing Master of Science (MS) by Research in Data Science from IIIT, Bangalore.
 
 
-### 🌱 What do I do and What have I done?
+## 🌱 What do I do and What have I done?
 - Artificial Intelligence (AI) Consultant at Healthy Happy Organic Hub
 - Artificial Intelligence (AI) Consultant at Lavorro Inc.
 - Research Scholar at IIIT Bangalore
@@ -48,7 +48,7 @@
 - Natural Language Processing Intern at Lincode Labs
 - Research Assistant at GLA University
 
-### 🌐 Languages and Tools:
+## 🔥 Languages and Tools:
 [<img alt="Python" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" />](https://www.python.org/)
 [<img alt="Amazon AWS" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/amazonaws.svg" />](https://aws.amazon.com/)
 [<img alt="TensorFlow" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tensorflow.svg" />](https://www.tensorflow.org/)
@@ -71,11 +71,19 @@
 [<img alt="Jira" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jira.svg" />](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=143485223644&campaign=18442427757&creative=651996522852&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73345677068&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=Cj0KCQjw27mhBhC9ARIsAIFsETE8wa1ljpqF0SRhU-wmqWS50uiWANGSCWwJAK0Fpxt_VusZWopGOB0aAneWEALw_wcB&gclsrc=aw.ds)
 <br>
 <br>
+<br>
+<br>
 
-
-
+## :zap: My GitHub Stats  
+<img alt="Dhruv Awasthi's GitHub Stats" align="center" src="https://github-readme-stats-orpin-omega.vercel.app/api?username=DhruvAwasthi&count_private=true&show_icons=true" />  
+<br>
+<br>
+<details>
+ <summary>📊 Waka Stats</summary>
+  <br>
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+
+  **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
@@ -115,9 +123,5 @@ Linux                    2 hrs 23 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
-
-
-#### :zap: My GitHub Stats  
- 
-<img alt="Dhruv Awasthi's GitHub Stats" align="center" src="https://github-readme-stats-orpin-omega.vercel.app/api?username=DhruvAwasthi&count_private=true&show_icons=true" />  
+</details>
 
