@@ -12,6 +12,7 @@
   <img alt="Dhruv's Website" width="22px" src="https://github.com/raivo-otp/issuer-icons/blob/f2007535e72276907bb7d9b64c31304c83c0f043/vectors/firefox.com/firefox.svg">
 </a> &nbsp;  
 
+[![](https://wakatime.com/badge/user/97d48e99-abfa-4dd7-8a9d-b14dce3279f6.svg)](https://wakatime.com/@97d48e99-abfa-4dd7-8a9d-b14dce3279f6)  
 ![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=Visitors)
 
 
