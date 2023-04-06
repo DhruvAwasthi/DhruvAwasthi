@@ -75,7 +75,7 @@
 <br>
 
 ## :zap: My GitHub Stats  
-<img alt="Dhruv Awasthi's GitHub Stats" align="center" src="https://github-readme-stats-orpin-omega.vercel.app/api?username=DhruvAwasthi&count_private=true&show_icons=true" />  
+<img alt="Dhruv Awasthi's GitHub Stats" align="center" src="https://github-readme-stats-orpin-omega.vercel.app/api?username=DhruvAwasthi&count_private=true&show_icons=true&include_all_commits=true" />  
 <br>
 <br>
 <details>
