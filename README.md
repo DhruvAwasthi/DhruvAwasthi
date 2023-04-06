@@ -125,4 +125,10 @@ Linux                    2 hrs 23 mins       ███████████�
 <!--END_SECTION:waka-->
 </details>
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/DhruvAwasthi/DhruvAwasthi/pull/2) in [DhruvAwasthi/DhruvAwasthi](https://github.com/DhruvAwasthi/DhruvAwasthi)
+2. 💪 Opened PR [#2](https://github.com/DhruvAwasthi/DhruvAwasthi/pull/2) in [DhruvAwasthi/DhruvAwasthi](https://github.com/DhruvAwasthi/DhruvAwasthi)
+3. 🎉 Merged PR [#1](https://github.com/DhruvAwasthi/DhruvAwasthi/pull/1) in [DhruvAwasthi/DhruvAwasthi](https://github.com/DhruvAwasthi/DhruvAwasthi)
+4. 💪 Opened PR [#1](https://github.com/DhruvAwasthi/DhruvAwasthi/pull/1) in [DhruvAwasthi/DhruvAwasthi](https://github.com/DhruvAwasthi/DhruvAwasthi)
+5. 🗣 Commented on [#445](https://github.com/anmol098/waka-readme-stats/issues/445) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+<!--END_SECTION:activity-->
 
