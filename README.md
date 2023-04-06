@@ -76,7 +76,9 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [Google Developer Student Club &lpar;GDSC&rpar; Lead Application | IIIT Bangalore](https://www.youtube.com/watch?v=B4_rZca7fyk)
+- [Install Anaconda in Ubuntu | Linux Mint | Elementary OS | Quick, Short and Complete Tutorial / Guide](https://www.youtube.com/watch?v=tynMx8_rE2Q)
+- [Install VMware Workstation 16 Pro in Linux &lpar;Ubuntu, Linux Mint&rpar;| License Keys](https://www.youtube.com/watch?v=6frf8R2Td60)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://youtube.com/@_dhruvawasthi)
 <br>
