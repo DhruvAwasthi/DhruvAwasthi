@@ -26,8 +26,7 @@
 <br>
 <br>
 
-[![](https://wakatime.com/badge/user/97d48e99-abfa-4dd7-8a9d-b14dce3279f6.svg)](https://wakatime.com/@97d48e99-abfa-4dd7-8a9d-b14dce3279f6)  
-![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=Visitors)
+[![](https://wakatime.com/badge/user/97d48e99-abfa-4dd7-8a9d-b14dce3279f6.svg)](https://wakatime.com/@97d48e99-abfa-4dd7-8a9d-b14dce3279f6)  ![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=Visitors)
 
 
 ## 💡 Who I Am?
