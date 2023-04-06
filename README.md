@@ -48,7 +48,7 @@
 - Natural Language Processing Intern at Lincode Labs
 - Research Assistant at GLA University
 
-## 🔥 Languages and Tools:
+## 🔥 Languages and Tools
 [<img alt="Python" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" />](https://www.python.org/)
 [<img alt="Amazon AWS" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/amazonaws.svg" />](https://aws.amazon.com/)
 [<img alt="TensorFlow" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tensorflow.svg" />](https://www.tensorflow.org/)
@@ -80,7 +80,15 @@
 - [Install Anaconda in Ubuntu | Linux Mint | Elementary OS | Quick, Short and Complete Tutorial / Guide](https://www.youtube.com/watch?v=tynMx8_rE2Q)
 - [Install VMware Workstation 16 Pro in Linux &lpar;Ubuntu, Linux Mint&rpar;| License Keys](https://www.youtube.com/watch?v=6frf8R2Td60)
 <!-- YOUTUBE:END -->
-➡️ [more videos...](https://youtube.com/@_dhruvawasthi)
+➡️ [More videos...](https://youtube.com/@_dhruvawasthi)
+<br>
+<br>
+
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+➡️ [More blog posts...](https://www.dhruvawasthi.com/blog)
+
 <br>
 <br>
 
