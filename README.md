@@ -33,4 +33,10 @@
 - Research Assistant at GLA University
 
 <!--START_SECTION:waka-->
+
+```text
+Text    1 hr 32 mins    ████████████████████████▓   98.48 %
+Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+```
+
 <!--END_SECTION:waka-->
