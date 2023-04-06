@@ -13,3 +13,6 @@
 </a> &nbsp;  
 
 ![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=Visitors)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
