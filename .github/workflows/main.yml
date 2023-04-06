@@ -25,4 +25,5 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_UPDATED_DATE: "False"
           #REPOSITORY: <gh_username/gh_username>
