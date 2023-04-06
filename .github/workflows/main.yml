@@ -19,4 +19,6 @@ jobs:
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "True"
           #REPOSITORY: <gh_username/gh_username>
