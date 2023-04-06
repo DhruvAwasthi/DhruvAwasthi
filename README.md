@@ -75,11 +75,14 @@
 <br>
 
 ## :zap: My GitHub Stats  
-<img alt="Dhruv Awasthi's GitHub Stats" align="center" src="https://github-readme-stats-orpin-omega.vercel.app/api?username=DhruvAwasthi&count_private=true&show_icons=true&include_all_commits=true" />  
+<p align="center"><img alt="Dhruv Awasthi's GitHub Stats" src="https://github-readme-stats-orpin-omega.vercel.app/api?username=DhruvAwasthi&count_private=true&show_icons=true&include_all_commits=true" />  
 <br>
 <br>
+  
+---
+  
 <details>
- <summary>:zap: Waka Stats</summary>
+ <summary><h4>:zap: Waka Stats</h4></summary>
   <br>
 <!--START_SECTION:waka-->
 
@@ -124,9 +127,8 @@ Linux                    2 hrs 23 mins       ███████████�
 
 <!--END_SECTION:waka-->
 </details>
-
 <details>
-<summary>:zap: Recent GitHub Activity</summary>
+<summary><h4>:zap: Recent GitHub Activity</h4></summary>
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/DhruvAwasthi/DhruvAwasthi/pull/2) in [DhruvAwasthi/DhruvAwasthi](https://github.com/DhruvAwasthi/DhruvAwasthi)
 2. 💪 Opened PR [#2](https://github.com/DhruvAwasthi/DhruvAwasthi/pull/2) in [DhruvAwasthi/DhruvAwasthi](https://github.com/DhruvAwasthi/DhruvAwasthi)
