@@ -1,17 +1,26 @@
 
 
 <a href="http://dhruvawasthi.com">
-  <img alt="Dhruv's Website" width="22px" src="https://github.com/raivo-otp/issuer-icons/blob/f2007535e72276907bb7d9b64c31304c83c0f043/vectors/firefox.com/firefox.svg">
+  <img alt="Dhruv's Website" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/firefox.svg" />
 </a> &nbsp;  
 <a href="https://www.linkedin.com/in/dhruv-awasthi/">
-  <img alt="Dhruv's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Dhruv's LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
 </a> &nbsp; 
 <a href="https://twitter.com/_dhruvawasthi">
-  <img alt="Dhruv's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
+  <img alt="Dhruv's Twitter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" />
+</a> &nbsp; 
+<a href="https://www.facebook.com/DhruvAwasthi6/">
+  <img alt="Dhruv's Facebook" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" />
+</a> &nbsp; 
+<a href="https://www.instagram.com/_dhruvawasthi/">
+  <img alt="Dhruv's Instagram" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" />
 </a> &nbsp; 
 <a href="mailto: dhruvawasthicc@gmail.com">
-  <img alt="Dhruv's Email" width="22px" src="https://github.com/raivo-otp/issuer-icons/blob/f2007535e72276907bb7d9b64c31304c83c0f043/vectors/google.com/google-gmail.svg">
+  <img alt="Dhruv's Email" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />
 </a> &nbsp;
+
+<br>
+<br>
 
 [![](https://wakatime.com/badge/user/97d48e99-abfa-4dd7-8a9d-b14dce3279f6.svg)](https://wakatime.com/@97d48e99-abfa-4dd7-8a9d-b14dce3279f6)  
 ![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=Visitors)
@@ -90,5 +99,7 @@ Linux                    2 hrs 23 mins       ███████████�
 <!--END_SECTION:waka-->
 
 
-#### :zap: My GitHub stats  
-<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DhruvAwasthi&&count_private=true&show_icons=true)"/>
+#### :zap: My GitHub Stats  
+ 
+<img align="center" alt="Dhruv Awasthi's GitHub Stats" src="https://github-readme-stats-orpin-omega.vercel.app/api?username=DhruvAwasthi&count_private=true&show_icons=true"/>  
+
