@@ -16,6 +16,7 @@
 ![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=Visitors)
 
 
+
 ### 👋 Hi there 
 - I'm Dhruv Awasthi (he/him).
 - I'm a Research Scholar, an Artificial Intelligence (AI) Consultant, and an Associate Data Scientist.
@@ -86,3 +87,7 @@ Linux                    1 hr 33 mins        ███████████�
 
  Last Updated on 06/04/2023 14:36:14 UTC
 <!--END_SECTION:waka-->
+
+
+#### :zap: My GitHub stats  
+<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DhruvAwasthi&&count_private=true&show_icons=true)"/>
