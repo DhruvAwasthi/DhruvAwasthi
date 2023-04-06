@@ -20,7 +20,6 @@ jobs:
           # profile readme, remove the leading `#` to use them
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
-          SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_LINES_OF_CODE: "False"
