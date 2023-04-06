@@ -85,23 +85,16 @@
 <br>
 
 ## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Call For Responsibility Among Open-Source Community](https://www.dhruvawasthi.com/blog/call-for-responsibility-among-open-source-community)
+- [Install Anaconda in Linux](https://www.dhruvawasthi.com/blog/install-anaconda-in-linux)  
+
 ➡️ [More blog posts...](https://www.dhruvawasthi.com/blog)
-
 <br>
 <br>
-
-## :zap: My GitHub Stats  
-<p align="center"><img alt="Dhruv Awasthi's GitHub Stats" src="https://github-readme-stats-orpin-omega.vercel.app/api?username=DhruvAwasthi&count_private=true&show_icons=true&include_all_commits=true" />  
-<br>
-<br>
-  
----
+## :zap: Statistics   
   
 <details>
- <summary><h4>:zap: Waka Stats</h4></summary>
-  <br>
+ <summary><h3>Waka Stats</h3></summary>
 <!--START_SECTION:waka-->
 
   **I'm a Night 🦉** 
@@ -141,12 +134,10 @@ Chrome                   49 mins             █████████░░�
 💻 Operating System: 
 Linux                    2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
-
-
 <!--END_SECTION:waka-->
 </details>
 <details>
-<summary><h4>:zap: Recent GitHub Activity</h4></summary>
+<summary><h3>Recent GitHub Activity</h3></summary>
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/DhruvAwasthi/DhruvAwasthi/pull/2) in [DhruvAwasthi/DhruvAwasthi](https://github.com/DhruvAwasthi/DhruvAwasthi)
 2. 💪 Opened PR [#2](https://github.com/DhruvAwasthi/DhruvAwasthi/pull/2) in [DhruvAwasthi/DhruvAwasthi](https://github.com/DhruvAwasthi/DhruvAwasthi)
@@ -155,3 +146,7 @@ Linux                    2 hrs 23 mins       ███████████�
 5. 🗣 Commented on [#445](https://github.com/anmol098/waka-readme-stats/issues/445) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 </details>
+<br>
+
+<p align="center"><img alt="Dhruv Awasthi's GitHub Stats" src="https://github-readme-stats-orpin-omega.vercel.app/api?username=DhruvAwasthi&count_private=true&show_icons=true&include_all_commits=true" />  
+
