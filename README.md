@@ -95,6 +95,8 @@
   
 <details>
  <summary><h3>Waka Stats</h3></summary>
+  <br>
+  
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
