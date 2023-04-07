@@ -91,56 +91,8 @@
 ➡️ [More blog posts...](https://www.dhruvawasthi.com/blog)
 <br>
 <br>
-## :zap: Statistics   
-  
-<details>
- <summary><h3>Waka Stats</h3></summary>
-  <br>
-  
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+## Recent GitHub Activity
 
-```text
-🌞 Morning                238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-🌆 Daytime                734 commits         ████████░░░░░░░░░░░░░░░░░   32.80 % 
-🌃 Evening                842 commits         █████████░░░░░░░░░░░░░░░░   37.62 % 
-🌙 Night                  424 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Tuesday                  279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Wednesday                340 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Thursday                 464 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Friday                   383 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Saturday                 321 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Sunday                   264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Text                     1 hr 32 mins        ████████████████░░░░░░░░░   64.33 % 
-Other                    51 mins             █████████░░░░░░░░░░░░░░░░   35.67 % 
-
-🔥 Editors: 
-Sublime Text             1 hr 33 mins        ████████████████░░░░░░░░░   65.32 % 
-Chrome                   49 mins             █████████░░░░░░░░░░░░░░░░   34.68 % 
-
-💻 Operating System: 
-Linux                    2 hrs 23 mins       █████████████████████████   100.00 % 
-```
-
-
-<!--END_SECTION:waka-->
-</details>
-<details>
-<summary><h3>Recent GitHub Activity</h3></summary>
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/DhruvAwasthi/DhruvAwasthi/pull/2) in [DhruvAwasthi/DhruvAwasthi](https://github.com/DhruvAwasthi/DhruvAwasthi)
 2. 💪 Opened PR [#2](https://github.com/DhruvAwasthi/DhruvAwasthi/pull/2) in [DhruvAwasthi/DhruvAwasthi](https://github.com/DhruvAwasthi/DhruvAwasthi)
@@ -148,7 +100,7 @@ Linux                    2 hrs 23 mins       ███████████�
 4. 💪 Opened PR [#1](https://github.com/DhruvAwasthi/DhruvAwasthi/pull/1) in [DhruvAwasthi/DhruvAwasthi](https://github.com/DhruvAwasthi/DhruvAwasthi)
 5. 🗣 Commented on [#445](https://github.com/anmol098/waka-readme-stats/issues/445) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
-</details>
+
 <br>
 
 <p align="center"><img alt="Dhruv Awasthi's GitHub Stats" src="https://github-readme-stats-orpin-omega.vercel.app/api?username=DhruvAwasthi&count_private=true&show_icons=true&include_all_commits=true" />  
