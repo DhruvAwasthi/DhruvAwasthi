@@ -68,10 +68,11 @@
 [<img alt="Ancaonda" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/anaconda.svg" />](https://www.anaconda.com/)
 [<img alt="Jupyter" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jupyter.svg" />](https://jupyter.org/)
 [<img alt="Jira" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jira.svg" />](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=143485223644&campaign=18442427757&creative=651996522852&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73345677068&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=Cj0KCQjw27mhBhC9ARIsAIFsETE8wa1ljpqF0SRhU-wmqWS50uiWANGSCWwJAK0Fpxt_VusZWopGOB0aAneWEALw_wcB&gclsrc=aw.ds)
+
 <br>
 <br>
-<br>
-<br>
+<br> 
+
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
