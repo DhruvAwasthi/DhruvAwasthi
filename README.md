@@ -96,10 +96,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3297](https://github.com/PaddlePaddle/PaddleSeg/issues/3297) in [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
-2. 💪 Opened PR [#3299](https://github.com/PaddlePaddle/PaddleSeg/pull/3299) in [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
-3. 🗣 Commented on [#168](https://github.com/dair-ai/Prompt-Engineering-Guide/issues/168) in [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-4. 💪 Opened PR [#168](https://github.com/dair-ai/Prompt-Engineering-Guide/pull/168) in [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-5. 🎉 Merged PR [#1](https://github.com/DhruvAwasthi/DhruvAwasthi/pull/1) in [DhruvAwasthi/DhruvAwasthi](https://github.com/DhruvAwasthi/DhruvAwasthi)
+2. 🗣 Commented on [#3297](https://github.com/PaddlePaddle/PaddleSeg/issues/3297) in [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
+3. 💪 Opened PR [#3299](https://github.com/PaddlePaddle/PaddleSeg/pull/3299) in [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
+4. 🗣 Commented on [#168](https://github.com/dair-ai/Prompt-Engineering-Guide/issues/168) in [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+5. 💪 Opened PR [#168](https://github.com/dair-ai/Prompt-Engineering-Guide/pull/168) in [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 <!--END_SECTION:activity-->
 
 <br>
