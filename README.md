@@ -95,11 +95,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#778](https://github.com/qubvel/segmentation_models.pytorch/issues/778) in [qubvel/segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)
-2. 🗣 Commented on [#3297](https://github.com/PaddlePaddle/PaddleSeg/issues/3297) in [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
-3. 🗣 Commented on [#3297](https://github.com/PaddlePaddle/PaddleSeg/issues/3297) in [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
-4. 💪 Opened PR [#3299](https://github.com/PaddlePaddle/PaddleSeg/pull/3299) in [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
-5. 🗣 Commented on [#168](https://github.com/dair-ai/Prompt-Engineering-Guide/issues/168) in [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+1. ❗ Opened issue [#312](https://github.com/NielsRogge/Transformers-Tutorials/issues/312) in [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)
+2. 🗣 Commented on [#307](https://github.com/NielsRogge/Transformers-Tutorials/issues/307) in [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)
+3. 🗣 Commented on [#778](https://github.com/qubvel/segmentation_models.pytorch/issues/778) in [qubvel/segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)
+4. ❗ Opened issue [#778](https://github.com/qubvel/segmentation_models.pytorch/issues/778) in [qubvel/segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)
+5. 🗣 Commented on [#3297](https://github.com/PaddlePaddle/PaddleSeg/issues/3297) in [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
 <!--END_SECTION:activity-->
 
 <br>
