@@ -95,11 +95,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#778](https://github.com/qubvel/segmentation_models.pytorch/issues/778) in [qubvel/segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)
-2. 💪 Opened PR [#348](https://github.com/huggingface/deep-rl-class/pull/348) in [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class)
-3. 💪 Opened PR [#347](https://github.com/huggingface/deep-rl-class/pull/347) in [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class)
-4. ❗ Opened issue [#315](https://github.com/NielsRogge/Transformers-Tutorials/issues/315) in [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)
-5. 🗣 Commented on [#312](https://github.com/NielsRogge/Transformers-Tutorials/issues/312) in [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)
+1. 🗣 Commented on [#347](https://github.com/huggingface/deep-rl-class/issues/347) in [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class)
+2. 🗣 Commented on [#348](https://github.com/huggingface/deep-rl-class/issues/348) in [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class)
+3. 🗣 Commented on [#778](https://github.com/qubvel/segmentation_models.pytorch/issues/778) in [qubvel/segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)
+4. 💪 Opened PR [#348](https://github.com/huggingface/deep-rl-class/pull/348) in [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class)
+5. 💪 Opened PR [#347](https://github.com/huggingface/deep-rl-class/pull/347) in [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class)
 <!--END_SECTION:activity-->
 
 <br>
