@@ -30,7 +30,7 @@
 
 
 ## 💡 Who I Am?
-- I'm a Research Scholar, an Artificial Intelligence (AI) Consultant, and an Associate Data Scientist.
+- I'm a Research Scholar, Data Scientist, and Artificial Intelligence (AI) Consultant.
 - I build cool and impactful AI products that have the potential to impact lives of millions of people.
 - I'm currently working on natural language processing (NLP), reinforcement learning (RL), and computer vision (CV).
 - I'm doing research on embodied conversational agents at Multimodal Perception Lab.
@@ -43,8 +43,8 @@
 - Research Scholar at IIIT Bangalore
 - Associate Data Scientist at Lavorro Inc.
 - Research Intern at Language Technologies Research Center (LTRC)
-- Consultant Intern in Analytics and Product Team at Healthy Happy Organic Hub
-- Natural Language Processing Intern at Lincode Labs
+- Artifical Intelligence (AI) Consultant in Analytics and Product Team at Healthy Happy Organic Hub
+- Associate Data Scientist at Lincode Labs
 - Research Assistant at GLA University
 
 ## 🔥 Languages and Tools
@@ -73,6 +73,15 @@
 <br>
 <br> 
 
+## 📕 Latest Blog Posts
+- [ChatGPT Prompt Engineering for Developers by DeepLearning.AI and OpenAI](https://www.dhruvawasthi.com/blog/chatgpt-prompt-engineering-for-developers)
+- [Call For Responsibility Among Open-Source Community](https://www.dhruvawasthi.com/blog/call-for-responsibility-among-open-source-community)
+- [Install Anaconda in Linux](https://www.dhruvawasthi.com/blog/install-anaconda-in-linux)  
+
+➡️ [More blog posts...](https://www.dhruvawasthi.com/blog)
+<br>
+<br>
+
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -84,14 +93,6 @@
 <br>
 <br>
 
-## 📕 Latest Blog Posts
-- [ChatGPT Prompt Engineering for Developers by DeepLearning.AI and OpenAI](https://www.dhruvawasthi.com/blog/chatgpt-prompt-engineering-for-developers)
-- [Call For Responsibility Among Open-Source Community](https://www.dhruvawasthi.com/blog/call-for-responsibility-among-open-source-community)
-- [Install Anaconda in Linux](https://www.dhruvawasthi.com/blog/install-anaconda-in-linux)  
-
-➡️ [More blog posts...](https://www.dhruvawasthi.com/blog)
-<br>
-<br>
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
