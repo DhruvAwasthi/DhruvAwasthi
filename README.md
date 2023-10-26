@@ -45,8 +45,6 @@ Driven by a passion for Artificial Intelligence (AI), I specialize in building t
 
 ## 🌐 Connect with Me:
 Feel free to reach out, collaborate, or simply connect. Always eager to explore new opportunities and challenges in the AI domain!
-<br>
-<br>
 <br> 
 
 ## 📕 Latest Blog Posts
