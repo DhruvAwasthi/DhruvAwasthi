@@ -1,0 +1,33 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # runs daily at 12pm
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser
+
+    - name: Update README with recent blogs
+      run: |
+        python .github/scripts/update_readme.py
+
+    - name: Commit and push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -am "Update README with recent blogs" -a
+        git push
