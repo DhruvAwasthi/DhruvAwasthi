@@ -53,7 +53,6 @@ Here are my recent blogs:
 <!-- BLOGS_START -->
 <!-- BLOGS_END -->
 
-➡️ [More blog posts...](https://www.dhruvawasthi.com/blog)
 <br>
 <br>
 
