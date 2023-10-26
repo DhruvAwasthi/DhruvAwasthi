@@ -29,23 +29,22 @@
 [![](https://wakatime.com/badge/user/97d48e99-abfa-4dd7-8a9d-b14dce3279f6.svg)](https://wakatime.com/@97d48e99-abfa-4dd7-8a9d-b14dce3279f6)  ![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=Visitors)
 
 
-## 💡 Who I Am?
-- I'm a Research Scholar, Data Scientist, and Artificial Intelligence (AI) Consultant.
-- I build cool and impactful AI products that have the potential to impact lives of millions of people.
-- I'm currently working on natural language processing (NLP), reinforcement learning (RL), and computer vision (CV).
-- I'm doing research on embodied conversational agents at Multimodal Perception Lab.
-- I'm currently pursuing Master of Science (MS) by Research in Data Science from IIIT, Bangalore.
+## 🔍 About Me:
+Driven by a passion for Artificial Intelligence (AI), I specialize in building transformative AI products with the potential to touch millions of lives. My expertise spans across Natural Language Processing (NLP), Reinforcement Learning (RL), Deep Learning (DL), Machine Learning (ML), and Computer Vision (CV). With hands-on expertise in crafting end-to-end AI products, my versatile skill set ranges from leading entire product life-cycles to seamlessly integrating within dynamic teams. I'm also pursuing my Master of Science (MS) by Research in Data Science from IIIT Bangalore.
 
 
-## 🌱 What do I do and What have I done?
-- Artificial Intelligence (AI) Consultant at Healthy Happy Organic Hub
-- Artificial Intelligence (AI) Consultant at Lavorro Inc.
-- Research Scholar at IIIT Bangalore
-- Associate Data Scientist at Lavorro Inc.
-- Research Intern at Language Technologies Research Center (LTRC)
-- Artifical Intelligence (AI) Consultant in Analytics and Product Team at Healthy Happy Organic Hub
-- Associate Data Scientist at Lincode Labs
-- Research Assistant at GLA University
+## 🚀 Professional Journey:
+- AI Consultant, Healthy Happy Organic Hub: Spearheaded AI-driven solutions, including a comprehensive image processing pipeline.
+- AI Consultant, Lavorro Inc.: Enhanced chatbot functionalities, optimizing for real-time data influx.
+- Research Scholar, IIIT Bangalore: Contributing to the forefront of AI research and innovation.
+- Associate Data Scientist, Lavorro Inc.: Developed an AI/ML deep learning-based virtual assistant tailored for the semiconductor industry.
+- Research Intern, Language Technologies Research Center (LTRC): Developed cutting-edge statistical machine translation models.
+- AI Consultant, Analytics and Product Team, Healthy Happy Organic Hub: Played a pivotal role in data analytics and product development.
+- Associate Data Scientist, Lincode Labs: Focused on advanced NLP solutions and integrations.
+- Research Assistant, GLA University: Explored hybrid feature selection methods and meta-heuristics-based optimization techniques.
+
+## 🌐 Connect with Me:
+Feel free to reach out, collaborate, or simply connect. Always eager to explore new opportunities and challenges in the AI domain!
 
 ## 🔥 Languages and Tools
 [<img alt="Python" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" />](https://www.python.org/)
