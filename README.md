@@ -31,7 +31,8 @@
 
 ## 🔍 About Me:
 Driven by a passion for Artificial Intelligence (AI), I specialize in building transformative AI products with the potential to touch millions of lives. My expertise spans across Natural Language Processing (NLP), Reinforcement Learning (RL), Deep Learning (DL), Machine Learning (ML), and Computer Vision (CV). With hands-on expertise in crafting end-to-end AI products, my versatile skill set ranges from leading entire product life-cycles to seamlessly integrating within dynamic teams. I'm also pursuing my Master of Science (MS) by Research in Data Science from IIIT Bangalore.
-
+<br>
+<br>
 
 ## 🚀 Professional Journey:
 - AI Consultant, Healthy Happy Organic Hub: Spearheaded AI-driven solutions, including a comprehensive image processing pipeline.
@@ -42,10 +43,13 @@ Driven by a passion for Artificial Intelligence (AI), I specialize in building t
 - AI Consultant, Analytics and Product Team, Healthy Happy Organic Hub: Played a pivotal role in data analytics and product development.
 - Associate Data Scientist, Lincode Labs: Focused on advanced NLP solutions and integrations.
 - Research Assistant, GLA University: Explored hybrid feature selection methods and meta-heuristics-based optimization techniques.
+<br>
 
 ## 🌐 Connect with Me:
 Feel free to reach out, collaborate, or simply connect. Always eager to explore new opportunities and challenges in the AI domain!
 <br> 
+<br>
+
 
 ## 📕 Latest Blog Posts
 Here are my recent blogs:
@@ -54,7 +58,7 @@ Here are my recent blogs:
 - [A Deep Dive into pip: The Python Package Manager](https://www.dhruvawasthi.com/post/a-deep-dive-into-pip-the-python-package-manager)
 - [Installing Anaconda on Linux: A Comprehensive 10-Step Guide](https://www.dhruvawasthi.com/post/installing-anaconda-on-linux-a-comprehensive-10-step-guide)
 <!-- BLOGS_END -->
-
+➡️ [More blog posts...](https://www.dhruvawasthi.com/blog)
 <br>
 <br>
 
@@ -68,6 +72,7 @@ Here are my recent blogs:
 ➡️ [More videos...](https://youtube.com/@_dhruvawasthi)
 <br>
 <br>
+
 
 ## Recent GitHub Activity
 
