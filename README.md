@@ -45,29 +45,6 @@ Driven by a passion for Artificial Intelligence (AI), I specialize in building t
 
 ## 🌐 Connect with Me:
 Feel free to reach out, collaborate, or simply connect. Always eager to explore new opportunities and challenges in the AI domain!
-
-## 🔥 Languages and Tools
-[<img alt="Python" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" />](https://www.python.org/)
-[<img alt="Amazon AWS" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/amazonaws.svg" />](https://aws.amazon.com/)
-[<img alt="TensorFlow" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tensorflow.svg" />](https://www.tensorflow.org/)
-[<img alt="PyTorch" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/pytorch.svg" />](https://pytorch.org/)
-[<img alt="Keras" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/keras.svg" />](https://keras.io/)
-[<img alt="RASA" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/rasa.svg" />](https://rasa.com/)
-[<img alt="Django" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/django.svg" />](https://www.djangoproject.com/)
-[<img alt="Spacy" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/spacy.svg" />](https://spacy.io/)
-[<img alt="OpenCV" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/opencv.svg" />](https://opencv.org/)
-[<img alt="Scikit-Learn" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/scikitlearn.svg" />](https://scikit-learn.org/stable/)
-[<img alt="MongoDB" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb.svg" />](https://www.mongodb.com/)
-[<img alt="ElasticSearch" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/elasticsearch.svg" />](https://www.elastic.co/?ultron=B-Stack-Trials-APJ-IND-Exact&gambit=Stack-Core&blade=adwords-s&hulk=paid&Device=c&thor=elasticsearch&gclid=Cj0KCQjw27mhBhC9ARIsAIFsETFlzre66AMBmx3wGJ4tmiwheB7j22NUQQw9I9Umuqk9bafSTIsEXikaAlA2EALw_wcB)
-[<img alt="PyCharm" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/pycharm.svg" />](https://www.jetbrains.com/pycharm/)
-[<img alt="Linux" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linux.svg" />](https://www.linux.org/)
-[<img alt="Git" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" />](https://git-scm.com/)
-[<img alt="GitHub" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" />](https://github.com/)
-[<img alt="Docker" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" />](https://www.docker.com/)
-[<img alt="Ancaonda" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/anaconda.svg" />](https://www.anaconda.com/)
-[<img alt="Jupyter" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jupyter.svg" />](https://jupyter.org/)
-[<img alt="Jira" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jira.svg" />](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=143485223644&campaign=18442427757&creative=651996522852&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73345677068&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=Cj0KCQjw27mhBhC9ARIsAIFsETE8wa1ljpqF0SRhU-wmqWS50uiWANGSCWwJAK0Fpxt_VusZWopGOB0aAneWEALw_wcB&gclsrc=aw.ds)
-
 <br>
 <br>
 <br> 
