@@ -48,9 +48,10 @@ Feel free to reach out, collaborate, or simply connect. Always eager to explore 
 <br> 
 
 ## 📕 Latest Blog Posts
-- [ChatGPT Prompt Engineering for Developers by DeepLearning.AI and OpenAI](https://www.dhruvawasthi.com/blog/chatgpt-prompt-engineering-for-developers)
-- [Call For Responsibility Among Open-Source Community](https://www.dhruvawasthi.com/blog/call-for-responsibility-among-open-source-community)
-- [Install Anaconda in Linux](https://www.dhruvawasthi.com/blog/install-anaconda-in-linux)  
+Here are my recent blogs:
+
+<!-- BLOGS_START -->
+<!-- BLOGS_END -->
 
 ➡️ [More blog posts...](https://www.dhruvawasthi.com/blog)
 <br>
