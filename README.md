@@ -55,6 +55,7 @@ Feel free to reach out, collaborate, or simply connect. Always eager to explore 
 Here are my recent blogs:
 
 <!-- BLOGS_START -->
+- [Mastering Python Docstrings: Your Guide to Better Code Documentation](https://www.dhruvawasthi.com/post/mastering-python-docstrings-your-guide-to-better-code-documentation)
 - [A Deep Dive into pip: The Python Package Manager](https://www.dhruvawasthi.com/post/a-deep-dive-into-pip-the-python-package-manager)
 - [Installing Anaconda on Linux: A Comprehensive 10-Step Guide](https://www.dhruvawasthi.com/post/installing-anaconda-on-linux-a-comprehensive-10-step-guide)
 <!-- BLOGS_END -->
