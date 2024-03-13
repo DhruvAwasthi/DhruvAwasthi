@@ -80,7 +80,7 @@ Here are my recent blogs:
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/muzaluisa/Learning_Representations_for_Soft_Skill_Matching/issues/1#issuecomment-1817318695) in [muzaluisa/Learning_Representations_for_Soft_Skill_Matching](https://github.com/muzaluisa/Learning_Representations_for_Soft_Skill_Matching)
+1. 💪 Opened PR [#9911](https://github.com/openfoodfacts/openfoodfacts-server/pull/9911) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
 2. 🗣 Commented on [#1](https://github.com/muzaluisa/Learning_Representations_for_Soft_Skill_Matching/issues/1#issuecomment-1815860181) in [muzaluisa/Learning_Representations_for_Soft_Skill_Matching](https://github.com/muzaluisa/Learning_Representations_for_Soft_Skill_Matching)
 3. 💪 Opened PR [#3](https://github.com/muzaluisa/Learning_Representations_for_Soft_Skill_Matching/pull/3) in [muzaluisa/Learning_Representations_for_Soft_Skill_Matching](https://github.com/muzaluisa/Learning_Representations_for_Soft_Skill_Matching)
 4. 🗣 Commented on [#5359](https://github.com/ultralytics/ultralytics/issues/5359#issuecomment-1762545790) in [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
