@@ -30,7 +30,7 @@
 
 
 ## 🔍 About Me:
-Driven by a passion for Artificial Intelligence (AI), I specialize in building transformative AI products with the potential to touch millions of lives. My expertise spans across Natural Language Processing (NLP), Reinforcement Learning (RL), Deep Learning (DL), Machine Learning (ML), and Computer Vision (CV). With hands-on expertise in crafting end-to-end AI products, my versatile skill set ranges from leading entire product life-cycles to seamlessly integrating within dynamic teams. I'm also pursuing my Master of Science (MS) by Research in Data Science from IIIT Bangalore.
+Dhruv, a Senior Data Scientist and Research Associate with over 6 years of experience, is pursuing a Master of Science by Research from IIIT Bangalore. He specializes in designing and deploying AI solutions across NLP, computer vision, and machine learning domains. With expertise in leading product life-cycles and integrating within dynamic teams, he excels in crafting end-to-end AI products.
 <br>
 <br>
 
