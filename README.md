@@ -88,6 +88,6 @@ Here are my recent blogs:
 <!--END_SECTION:activity-->
 
 <br>
-
-<p align="center"><img alt="Dhruv Awasthi's GitHub Stats" src="https://github-readme-stats-dhruvawasthis-projects.vercel.app/api?username=dhruvawasthi&count_private=true&show_icons=true&include_all_commits=true" />  
+<p align="center"><img alt="Dhruv Awasthi's Language Stats" src="https://github-readme-stats-dhruvawasthis-projects.vercel.app/api/top-langs?username=dhruvawasthi&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&hide=jupyter%20notebook&layout=compact" /> 
+<p align="center"><img alt="Dhruv Awasthi's GitHub Stats" src="https://github-readme-stats-dhruvawasthis-projects.vercel.app/api?username=dhruvawasthi&count_private=true&show_icons=true&include_all_commits=true&theme=transparent" />  
 
