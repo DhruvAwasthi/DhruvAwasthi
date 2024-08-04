@@ -30,19 +30,34 @@
 
 
 ## 🔍 About Me:
-Dhruv, a Senior Data Scientist and Research Associate with over 6 years of experience, is pursuing a Master of Science by Research from IIIT Bangalore. He specializes in designing and deploying AI solutions across NLP, computer vision, and machine learning domains. With expertise in leading product life-cycles and integrating within dynamic teams, he excels in crafting end-to-end AI products.
+Dhruv Awasthi is a versatile technology leader with a proven ability to solve complex problems and deliver innovative solutions across various domains. With expertise in AI systems, natural language processing, computer vision, and machine learning, Dhruv excels in addressing challenges by developing and optimizing advanced technologies.
+
+Dhruv has developed sophisticated AI pipelines, including Retrieval-Augmented Generation (RAG) systems, to enhance consumer decision-making through detailed product analysis and scoring. By integrating computer vision and multimodal models, he transforms raw data into actionable insights, enabling users to make informed choices. His work also extends to advanced medical dialogue generation systems, where RAG frameworks facilitate dynamic and realistic patient interactions, significantly improving medical training and diagnostic accuracy.
+
+Additionally, Dhruv’s innovations in optimizing chatbots have markedly increased productivity and efficiency, addressing real-time data processing and user interaction challenges. Through these advancements, he not only enhances user experience but also drives significant value for businesses by providing effective, scalable solutions.
+
+With a rich background in research, his strategic approach and hands-on problem-solving skills drive innovation and operational excellence, ensuring high-quality, scalable solutions.
+
+Bringing a strategic vision and comprehensive management skills, Dhruv effectively leads projects from concept to production, delivering substantial value and fostering growth. His ability to integrate cutting-edge technologies and provide actionable insights underscores his impact on technological advancement and business success.
 <br>
 <br>
 
 ## 🚀 Professional Journey:
-- AI Consultant, Healthy Happy Organic Hub: Spearheaded AI-driven solutions, including a comprehensive image processing pipeline.
-- AI Consultant, Lavorro Inc.: Enhanced chatbot functionalities, optimizing for real-time data influx.
-- Research Scholar, IIIT Bangalore: Contributing to the forefront of AI research and innovation.
-- Associate Data Scientist, Lavorro Inc.: Developed an AI/ML deep learning-based virtual assistant tailored for the semiconductor industry.
-- Research Intern, Language Technologies Research Center (LTRC): Developed cutting-edge statistical machine translation models.
-- AI Consultant, Analytics and Product Team, Healthy Happy Organic Hub: Played a pivotal role in data analytics and product development.
-- Associate Data Scientist, Lincode Labs: Focused on advanced NLP solutions and integrations.
-- Research Assistant, GLA University: Explored hybrid feature selection methods and meta-heuristics-based optimization techniques.
+- Founder & Director at [Computer Market Hub](https://www.computermarkethub.com/) (May 2024 - Present)
+- Research Associate (RA) at [International Institute of Information Technology, Bangalore](https://www.iiitb.ac.in/) (Apr 2024 - Present)
+- Artificial Intelligence (AI) Consultant at [Healthy Happy Organic Hub](https://h2ohub.com/) (Sep 2022 - Jun 2024)
+- Teaching Assistant (TA) at [International Institute of Information Technology, Bangalore](https://www.iiitb.ac.in/) (Jan 2024 - May 2024)
+- Artificial Intelligence (AI) Consultant at [Lavorro Inc](https://www.lavorro.com/) (May 2022 - Aug 2022)
+- Research Intern at [Language Technologies Research Center (LTRC)](https://ltrc.iiit.ac.in/) (Sep 2021 - Jan 2022)
+- Associate Data Scientist at [Lavorro Inc](https://www.lavorro.com/) (Jun 2021 - Nov 2021)
+- Artificial Intelligence (AI) Consultant at [Healthy Happy Organic Hub](https://h2ohub.com/) (Oct 2020 - Sep 2021)
+- Associate Data Scientist at [Lincode Labs](https://www.lincode.ai/) (Jun 2020 - Jun 2021)
+- Research Assistant (RA) at [GLA University](https://www.gla.ac.in/) (Sep 2020 - Feb 2021)
+<br>
+
+## Educational Journey
+- Master of Science (MS) by Research from [International Institute of Information Technology, Bangalore](https://www.iiitb.ac.in/) (Aug 2022 - May 2025)
+- Bachelor of Technology - B.Tech in Computer Science Engineering with IBM specialization in Cyber Security and Forensics from [GLA University](https://www.gla.ac.in/) (Aug 2018 - May 2022)  
 <br>
 
 ## 🌐 Connect with Me:
