@@ -57,7 +57,7 @@ Bringing a strategic vision and comprehensive management skills, Dhruv effective
 
 ## Educational Journey
 - Master of Science (MS) by Research from [International Institute of Information Technology, Bangalore](https://www.iiitb.ac.in/) (Aug 2022 - May 2025)
-- Bachelor of Technology - B.Tech in Computer Science Engineering with IBM specialization in Cyber Security and Forensics from [GLA University](https://www.gla.ac.in/) (Aug 2018 - May 2022)  
+- Bachelor of Technology (B.Tech) in Computer Science Engineering with IBM specialization in Cyber Security and Forensics from [GLA University](https://www.gla.ac.in/) (Aug 2018 - May 2022)  
 <br>
 
 ## 🌐 Connect with Me:
