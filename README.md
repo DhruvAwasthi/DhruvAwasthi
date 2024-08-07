@@ -45,8 +45,9 @@ Bringing a strategic vision and comprehensive management skills, Dhruv effective
 ## 🚀 Professional Journey:
 - Founder & Director at [Computer Market Hub](https://www.computermarkethub.com/) (May 2024 - Present)
 - Research Associate (RA) at [International Institute of Information Technology, Bangalore](https://www.iiitb.ac.in/) (Apr 2024 - Present)
+- Teaching Assistant (TA) in Machine Learning (ML) at [International Institute of Information Technology, Bangalore](https://www.iiitb.ac.in/) (Jan 2024 - May 2024)
 - Artificial Intelligence (AI) Consultant at [Healthy Happy Organic Hub](https://h2ohub.com/) (Sep 2022 - Jun 2024)
-- Teaching Assistant (TA) at [International Institute of Information Technology, Bangalore](https://www.iiitb.ac.in/) (Jan 2024 - May 2024)
+- Teaching Assistant (TA) in Natural Language Processing (NLP) at [International Institute of Information Technology, Bangalore](https://www.iiitb.ac.in/) (Jan 2024 - May 2024)
 - Artificial Intelligence (AI) Consultant at [Lavorro Inc](https://www.lavorro.com/) (May 2022 - Aug 2022)
 - Research Intern at [Language Technologies Research Center (LTRC)](https://ltrc.iiit.ac.in/) (Sep 2021 - Jan 2022)
 - Associate Data Scientist at [Lavorro Inc](https://www.lavorro.com/) (Jun 2021 - Nov 2021)
