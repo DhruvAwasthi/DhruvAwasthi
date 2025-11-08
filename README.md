@@ -71,6 +71,11 @@ Feel free to reach out, collaborate, or simply connect. Always eager to explore 
 Here are my recent blogs:
 
 <!-- BLOGS_START -->
+- [Never Miss an RCB Match Again with This Handy Python Script](https://www.dhruvawasthi.com/post/never-miss-an-rcb-match-again-with-this-handy-python-script)
+- [Unveiling the GPT Store: A New Era in AI Customization](https://www.dhruvawasthi.com/post/unveiling-the-gpt-store-a-new-era-in-ai-customization)
+- [Navigating the Frontiers of NLP: Insights from Leading Tech Giants](https://www.dhruvawasthi.com/post/navigating-the-frontiers-of-nlp-insights-from-leading-tech-giants)
+- [Mastering Python Docstrings: Your Guide to Better Code Documentation](https://www.dhruvawasthi.com/post/mastering-python-docstrings-your-guide-to-better-code-documentation)
+- [A Deep Dive into pip: The Python Package Manager](https://www.dhruvawasthi.com/post/a-deep-dive-into-pip-the-python-package-manager)
 <!-- BLOGS_END -->
 ➡️ [More blog posts...](https://www.dhruvawasthi.com/blog)
 <br>
