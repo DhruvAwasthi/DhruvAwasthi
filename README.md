@@ -1,104 +1,171 @@
+# Hi, I'm Dhruv Awasthi 👋
 
-# Hi there, I'm Dhruv 👋
+### Founder @ Red Augment | AI Systems Driving $10M+ Impact | Building Production AI
 
-<a href="http://dhruvawasthi.com">
-  <img alt="Dhruv's Website" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/firefox.svg" />
-</a> &nbsp;  
-<a href="https://www.linkedin.com/in/dhruv-awasthi/">
-  <img alt="Dhruv's LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
-</a> &nbsp; 
-<a href="https://twitter.com/_dhruvawasthi">
-  <img alt="Dhruv's Twitter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" />
-</a> &nbsp; 
-<a href="https://www.facebook.com/DhruvAwasthi6/">
-  <img alt="Dhruv's Facebook" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" />
-</a> &nbsp; 
-<a href="https://www.instagram.com/_dhruvawasthi/">
-  <img alt="Dhruv's Instagram" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" />
-</a> &nbsp; 
-<a href="https://www.youtube.com/@_dhruvawasthi">
-  <img alt="Dhruv's YouTube" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/youtube.svg" />
-</a> &nbsp; 
-<a href="mailto: dhruvawasthicc@gmail.com">
-  <img alt="Dhruv's Email" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />
-</a> &nbsp;
+Singapore 🇸🇬
 
-<br>
-<br>
+I build intelligent systems that turn ambitious ideas into production-ready products.
 
-[![](https://wakatime.com/badge/user/97d48e99-abfa-4dd7-8a9d-b14dce3279f6.svg)](https://wakatime.com/@97d48e99-abfa-4dd7-8a9d-b14dce3279f6)  ![](https://komarev.com/ghpvc/?username=DhruvAwasthi&style=flat&label=Visitors)
+I'm the Founder & Director of Red Augment, a Singapore-based AI and technology company that helps startups, enterprises, and research organizations design, build, and scale AI-powered systems.
 
+Over the last 7+ years, I've worked across AI research, product engineering, and startup execution—building everything from LLM-powered applications and AI copilots to multimodal intelligence platforms, agentic workflows, and privacy-first self-hosted AI infrastructure.
 
-## 🔍 About Me:
-Dhruv Awasthi is a versatile technology leader with a proven ability to solve complex problems and deliver innovative solutions across various domains. With expertise in AI systems, natural language processing, computer vision, and machine learning, Dhruv excels in addressing challenges by developing and optimizing advanced technologies.
+My focus is not just building AI models.
 
-Dhruv has developed sophisticated AI pipelines, including Retrieval-Augmented Generation (RAG) systems, to enhance consumer decision-making through detailed product analysis and scoring. By integrating computer vision and multimodal models, he transforms raw data into actionable insights, enabling users to make informed choices. His work also extends to advanced medical dialogue generation systems, where RAG frameworks facilitate dynamic and realistic patient interactions, significantly improving medical training and diagnostic accuracy.
+It's building systems where AI works reliably under real-world constraints:
 
-Additionally, Dhruv’s innovations in optimizing chatbots have markedly increased productivity and efficiency, addressing real-time data processing and user interaction challenges. Through these advancements, he not only enhances user experience but also drives significant value for businesses by providing effective, scalable solutions.
+* Scale
+* Cost
+* Latency
+* Security
+* User behavior
 
-With a rich background in research, his strategic approach and hands-on problem-solving skills drive innovation and operational excellence, ensuring high-quality, scalable solutions.
+---
 
-Bringing a strategic vision and comprehensive management skills, Dhruv effectively leads projects from concept to production, delivering substantial value and fostering growth. His ability to integrate cutting-edge technologies and provide actionable insights underscores his impact on technological advancement and business success.
-<br>
-<br>
+## 🚀 What I'm Building
 
-## 🚀 Professional Journey:
-- Founder & Director at [Computer Market Hub](https://www.computermarkethub.com/) (May 2024 - Present)
-- Research Associate (RA) at [International Institute of Information Technology, Bangalore](https://www.iiitb.ac.in/) (Apr 2024 - Present)
-- Teaching Assistant (TA) in Machine Learning (ML) at [International Institute of Information Technology, Bangalore](https://www.iiitb.ac.in/) (Aug 2024 - Present)
-- Artificial Intelligence (AI) Consultant at [Healthy Happy Organic Hub](https://h2ohub.com/) (Sep 2022 - Jun 2024)
-- Teaching Assistant (TA) in Natural Language Processing (NLP) at [International Institute of Information Technology, Bangalore](https://www.iiitb.ac.in/) (Jan 2024 - May 2024)
-- Artificial Intelligence (AI) Consultant at [Lavorro Inc](https://www.lavorro.com/) (May 2022 - Aug 2022)
-- Research Intern at [Language Technologies Research Center (LTRC)](https://ltrc.iiit.ac.in/) (Sep 2021 - Jan 2022)
-- Associate Data Scientist at [Lavorro Inc](https://www.lavorro.com/) (Jun 2021 - Nov 2021)
-- Artificial Intelligence (AI) Consultant at [Healthy Happy Organic Hub](https://h2ohub.com/) (Oct 2020 - Sep 2021)
-- Associate Data Scientist at [Lincode Labs](https://www.lincode.ai/) (Jun 2020 - Jun 2021)
-- Research Assistant (RA) at [GLA University](https://www.gla.ac.in/) (Sep 2020 - Feb 2021)
-<br>
+### At Red Augment
 
-## Educational Journey
-- Master of Science (MS) by Research from [International Institute of Information Technology, Bangalore](https://www.iiitb.ac.in/) (Aug 2022 - May 2025)
-- Bachelor of Technology (B.Tech) in Computer Science Engineering with IBM specialization in Cyber Security and Forensics from [GLA University](https://www.gla.ac.in/) (Aug 2018 - May 2022)  
-<br>
+We help organizations move from idea → prototype → production.
 
-## 🌐 Connect with Me:
-Feel free to reach out, collaborate, or simply connect. Always eager to explore new opportunities and challenges in the AI domain!
-<br> 
-<br>
+Our work includes:
 
+* AI Agents
+* LLM Applications
+* Retrieval-Augmented Generation (RAG)
+* Multimodal AI Systems
+* AI Copilots
+* Conversational AI
+* Self-Hosted AI Infrastructure
+* Enterprise Automation
+* Full-Stack Product Development
 
-## 📕 Latest Blog Posts
-Here are my recent blogs:
+Industries:
+Healthcare • Recruitment • Retail • Education • Logistics • Enterprise Software
 
-<!-- BLOGS_START -->
-<!-- BLOGS_END -->
-➡️ [More blog posts...](https://www.dhruvawasthi.com/blog)
-<br>
-<br>
+---
 
-## 📺 Latest YouTube Videos
+## 📈 Highlights
 
-<!-- YOUTUBE:START -->
-- [Google Developer Student Club &lpar;GDSC&rpar; Lead Application | IIIT Bangalore](https://www.youtube.com/watch?v=B4_rZca7fyk)
-- [Install Anaconda in Ubuntu | Linux Mint | Elementary OS | Quick, Short and Complete Tutorial / Guide](https://www.youtube.com/watch?v=tynMx8_rE2Q)
-- [Install VMware Workstation 16 Pro in Linux &lpar;Ubuntu, Linux Mint&rpar;| License Keys](https://www.youtube.com/watch?v=6frf8R2Td60)
-<!-- YOUTUBE:END -->
-➡️ [More videos...](https://youtube.com/@_dhruvawasthi)
-<br>
-<br>
+* Founder & Director, Red Augment
+* Delivered 20+ AI-powered products
+* Generated $10M+ client-driven impact
+* Clients across Europe, North America, and Asia
+* Built privacy-first AI deployments aligned with GDPR requirements
+* Designed large-scale multimodal data pipelines processing millions of records
+* Developed low-compute LLM systems achieving near-GPU performance
+* Led engineering teams across AI, backend, frontend, DevOps, and product
 
+---
 
-## Recent GitHub Activity
+## 🎓 Education
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#284](https://github.com/google-deepmind/gemma/pull/284) in [google-deepmind/gemma](https://github.com/google-deepmind/gemma)
-2. 💪 Opened PR [#9911](https://github.com/openfoodfacts/openfoodfacts-server/pull/9911) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
-3. 💪 Opened PR [#3](https://github.com/muzaluisa/Learning_Representations_for_Soft_Skill_Matching/pull/3) in [muzaluisa/Learning_Representations_for_Soft_Skill_Matching](https://github.com/muzaluisa/Learning_Representations_for_Soft_Skill_Matching)
-4. 🗣 Commented on [#5359](https://github.com/ultralytics/ultralytics/issues/5359#issuecomment-1762545790) in [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
-5. 🔒 Closed issue [#5359](https://github.com/ultralytics/ultralytics/issues/5359) in [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
-<!--END_SECTION:activity-->
+### International Institute of Information Technology Bangalore (IIIT-B)
 
-<br>
-<p align="center"><img alt="Dhruv Awasthi's Language Stats" src="https://github-readme-stats-dhruvawasthis-projects.vercel.app/api/top-langs?username=dhruvawasthi&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&hide=jupyter%20notebook&layout=compact" /> 
-<p align="center"><img alt="Dhruv Awasthi's GitHub Stats" src="https://github-readme-stats-dhruvawasthis-projects.vercel.app/api?username=dhruvawasthi&count_private=true&show_icons=true&include_all_commits=true&theme=transparent" />  
+**Master of Science (MS), Data Science**
+2022 – 2025
 
+Research Focus:
+
+* Large Language Models (LLMs)
+* Multimodal AI
+* Human-AI Interaction
+* Feedback Generation Systems
+* Conversational AI
+
+Activities:
+
+* Multimodal Perception Lab
+* Volunteer, ACM ICMI 2022
+* Volunteer, CODS-COMAD 2024
+* Represented MOSIP at Open Source India
+
+---
+
+## 📚 Publications
+
+### ResumeGenAI: Supporting Job Seekers with LLM-Driven Resume Feedback
+
+Dhruv Awasthi, Pooja S. B. Rao, Dinesh Babu Jayagopi
+
+ACM Conference on Conversational User Interfaces (CUI '25)
+
+### Can Foundation Models Demonstrate the Social Skills of a Doctor?
+
+Dhruv Awasthi, Shreya Gupta, Anirudh Sharma, Tulika Saha, Dinesh Babu Jayagopi
+
+Submitted to IJCAI-ECAI 2026 Workshop on Foundation Models for Social Good
+
+---
+
+## 🔬 Research Interests
+
+* Large Language Models
+* Agentic AI
+* Retrieval-Augmented Generation
+* Multimodal AI
+* Human-AI Interaction
+* Conversational Systems
+* AI Evaluation
+* Responsible AI
+
+---
+
+## 🛠️ Tech Stack
+
+**AI & ML**
+Python • PyTorch • TensorFlow • Hugging Face • LangChain • LlamaIndex
+
+**LLM Systems**
+OpenAI • Claude • Gemini • Self-Hosted Models • RAG • Agents
+
+**Backend**
+Django • FastAPI • Node.js • PostgreSQL • Redis
+
+**Infrastructure**
+Docker • Linux • AWS • CI/CD • DevOps
+
+**Data**
+Vector Databases • OCR • Web Scraping • Distributed Processing
+
+---
+
+## 🌎 Selected Work
+
+### WineSpeak AI
+
+Conversational AI platform enabling real-time customer engagement.
+
+### ResumeGenAI
+
+AI-powered resume feedback platform backed by academic research.
+
+### Food Intelligence Platform
+
+Multimodal AI system analyzing nutrition, ingredients, additives, sustainability, and product health.
+
+### Medical Training VR System
+
+LLM-driven virtual patient interactions for doctor training and clinical communication practice.
+
+### Privacy-First AI Hiring Systems
+
+Self-hosted AI infrastructure designed for security-sensitive environments.
+
+---
+
+## 🤝 Let's Connect
+
+🌐 https://dhruvawasthi.com
+
+💼 LinkedIn
+https://linkedin.com/in/dhruv-awasthi
+
+🏢 Red Augment
+https://redaugment.com
+
+📧 [dhruv@redaugment.com](mailto:dhruv@redaugment.com)
+
+---
+
+> Building AI that ships. Research-backed. Production-ready. Designed for real-world impact.
